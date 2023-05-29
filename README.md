@@ -1,3 +1,9 @@
+## news image
+![React-App (1)](https://github.com/Bright11/react-mongodb-news-app/assets/34070274/25462182-beb0-4fef-81b6-b61901d92e46)
+
+
+## django version coming soon
+
 ## React news application
 ## Database 
 
